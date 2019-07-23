@@ -5,9 +5,6 @@ var array=[]
   
     for (i = 0 ; i < arrayMusicians.length ; i++){
       array.push(arrayMusicians[i]+"plays the "+arrayInstruments[i])
-      
-      
     }
     return array 
 }
-
