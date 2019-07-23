@@ -8,3 +8,15 @@ var array=[]
     }
     return array 
 }
+
+function johnLennonFacts(facts){
+    var array=[]
+    i=0
+  while (i< facts.length)
+  {
+    
+    array.push(facts[i]+"!!!")
+    i++
+  }
+  return array
+}
