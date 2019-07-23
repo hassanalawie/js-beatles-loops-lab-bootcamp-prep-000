@@ -21,4 +21,11 @@ function johnLennonFacts(facts){
   return array
 }
 
-funciton iLoveTheBeatles
+function iLoveTheBeatles(n){
+  var array=[]
+  do{
+    array.push("I love the Beatles!")
+    var i++
+  }
+  while(i<15)
+}
