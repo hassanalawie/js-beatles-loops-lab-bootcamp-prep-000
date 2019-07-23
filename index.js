@@ -25,7 +25,7 @@ function iLoveTheBeatles(n){
   var array=[]
   do{
     array.push("I love the Beatles!")
-    var n++
+    n++
   }
   while(n<15)
 }
